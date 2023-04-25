@@ -1,0 +1,38 @@
+
+h1{
+    font-family:fantasy;
+    letter-spacing: 5px;
+    text-decoration: dashed underline;
+}
+.nav-item .nav-link {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 15px ;
+}
+.nav-item .nav-link:hover{
+    background-color: black;
+    color: white;
+}
+.nav-item .nav-link{
+    font-family: cursive;
+}
+.navbar-brand{
+    font-family: fantasy;
+    letter-spacing: 2px;
+}
+.card:hover{
+    box-shadow: 3px 3px 3px black;
+    /* border: 1px solid red; */
+}
+.btn{
+    font-weight: bold;
+}
+.card img{
+    height:240px !important;
+    width:auto !important;
+    object-fit: cover !important;
+}
+.card-body .btn{
+    padding: 10px 30px;
+}
